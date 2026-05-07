@@ -28,7 +28,7 @@ The main objective is to build a regression model capable of predicting `Global_
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- The Jupyter Notebook
 
 ---
 
